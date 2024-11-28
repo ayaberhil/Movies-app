@@ -55,8 +55,7 @@ Pour trouver des cinémas dans une ville choisie, nous utilisons l'API Google Se
 ### Capture d'ecran
 
 ![WhatsApp Image 2024-05-17 at 13 22 41_f1892818](https://github.com/killer-beep07/Movies-App/assets/130712993/bce0fd4e-8cf6-4dc4-a778-574599e0ac59)
-![rsz_1ai](https://github.com/killer-beep07/Movies-App/assets/130712993/574c55c1-3555-4354-8fb5-b9afaddfebf0)
-![rsz_66475046206a8](https://github.com/killer-beep07/Movies-App/assets/130712993/1bf71d4a-64d2-482c-870b-9a96bb971d04)
+
 
 ![WhatsApp Image 2024-05-17 at 13 22 42_a939b062](https://github.com/killer-beep07/Movies-App/assets/130712993/8c94ed25-bb7d-4bfe-b5f3-e62ae3331f3b)
 ![WhatsApp Image 2024-05-17 at 13 22 43_9510c37f](https://github.com/killer-beep07/Movies-App/assets/130712993/b2a8870e-e7a3-4d82-aae1-95f9f40e2bdd)
